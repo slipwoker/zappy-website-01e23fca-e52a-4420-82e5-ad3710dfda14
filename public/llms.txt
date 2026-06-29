@@ -1,4 +1,4 @@
-# 18 חי – חדשות בזמן אמת — Generative Engine Optimization Map
+# חדשות בזמן אמת -חי 18 — Generative Engine Optimization Map
 
 > 18 חי is a professional Israeli real-time news portal with a modern, clean, and prestigious design in blue and white. The brand integrates the Israeli flag elegantly into the header or as a small icon next to the site name, reflecting national identity without overloading the visual aesthetic. The site covers a wide range of categories including security, Israeli and world news, politics, economy, sports, culture, and technology, and is fully RTL-optimized for Hebrew audiences. The overall vibe is authoritative, trustworthy, and cutting-edge — inspired by leading news outlets but entirely original in its design.
 
@@ -60,7 +60,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About 18 חי – חדשות בזמן אמת
+## About חדשות בזמן אמת -חי 18
 18 חי is a professional Israeli real-time news portal with a modern, clean, and prestigious design in blue and white. The brand integrates the Israeli flag elegantly into the header or as a small icon next to the site name, reflecting national identity without overloading the visual aesthetic. The site covers a wide range of categories including security, Israeli and world news, politics, economy, sports, culture, and technology, and is fully RTL-optimized for Hebrew audiences. The overall vibe is authoritative, trustworthy, and cutting-edge — inspired by leading news outlets but entirely original in its design.
 
 ## Target Audience
