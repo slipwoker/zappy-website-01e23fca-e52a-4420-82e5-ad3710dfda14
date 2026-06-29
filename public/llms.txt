@@ -43,6 +43,7 @@ Information about WCAG compliance and accessibility features.
 - Email: liavsameach@icloud.com
 - Phone: 0523622911
 - Phone (tel): tel:0523622911
+- Address: ישראל
 
 ### Contact form
 - URL: https://real-time-news-live-18.zappy5.app/contact
