@@ -1,0 +1,79 @@
+# 18 חי – חדשות בזמן אמת — Generative Engine Optimization Map
+
+> 18 חי is a professional Israeli real-time news portal with a modern, clean, and prestigious design in blue and white. The brand integrates the Israeli flag elegantly into the header or as a small icon next to the site name, reflecting national identity without overloading the visual aesthetic. The site covers a wide range of categories including security, Israeli and world news, politics, economy, sports, culture, and technology, and is fully RTL-optimized for Hebrew audiences. The overall vibe is authoritative, trustworthy, and cutting-edge — inspired by leading news outlets but entirely original in its design.
+
+---
+
+## Pages
+
+### בית
+https://18-01e23fca.zappy5.app
+קבלו עדכונים שוטפים על חדשות ישראל בזמן אמת: ביטחון, כלכלה, ספורט ועוד. הצטרפו לאלפי קוראים שנשארים מעודכנים בכל רגע — לחצו עכשיו לפרטים החמים ביותר!
+
+### אודות
+https://18-01e23fca.zappy5.app/about
+גלו את הסיפור מאחורי 18 חי, פורטל חדשות ישראלי מוביל שמביא לכם דיווחים מדויקים על ביטחון, כלכלה וספורט. בואו להבין למה אנחנו הבחירה של הקהל הישראלי — היכנסו עכשיו!
+
+### צור קשר
+https://18-01e23fca.zappy5.app/contact
+יש לכם מידע על מבזקי חדשות עכשיו או אירוע ביטחוני? צרו קשר עם מערכת 18 חי ושתפו אותנו בסיפורים שלכם. אנחנו כאן להקשיב — שלחו פנייה ותהיו חלק מהדיווח!
+
+### תודה על פנייתך | 18 חי – חדשות בזמן אמת
+https://18-01e23fca.zappy5.app/thank-you
+18 חי – חדשות בזמן אמת - תודה על פנייתך | 18 חי – חדשות בזמן אמת
+
+## Legal & Policy
+
+### Privacy Policy
+https://18-01e23fca.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://18-01e23fca.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://18-01e23fca.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://18-01e23fca.zappy5.app/contact
+- Endpoint: https://18-01e23fca.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About 18 חי – חדשות בזמן אמת
+18 חי is a professional Israeli real-time news portal with a modern, clean, and prestigious design in blue and white. The brand integrates the Israeli flag elegantly into the header or as a small icon next to the site name, reflecting national identity without overloading the visual aesthetic. The site covers a wide range of categories including security, Israeli and world news, politics, economy, sports, culture, and technology, and is fully RTL-optimized for Hebrew audiences. The overall vibe is authoritative, trustworthy, and cutting-edge — inspired by leading news outlets but entirely original in its design.
+
+## Target Audience
+- קוראי חדשות ישראלים
+- משתמשי רשתות חברתיות
+- גמלאים המתעניינים בחדשות
+- משתמשים בנייד תחילה
+
+## Industry
+News & Media
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://18-01e23fca.zappy5.app/sitemap.xml
+- Robots: https://18-01e23fca.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://18-01e23fca.zappy5.app/llms-full.txt
