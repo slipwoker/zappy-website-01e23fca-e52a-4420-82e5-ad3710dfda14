@@ -40,7 +40,9 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: liavsameach@icloud.com
+- Phone: 0523622911
+- Phone (tel): tel:0523622911
 
 ### Contact form
 - URL: https://example.com/contact
