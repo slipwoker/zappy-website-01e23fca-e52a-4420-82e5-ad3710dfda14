@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://real-time-news-live-18.zappy5.app
 קבלו עדכונים שוטפים על חדשות ישראל בזמן אמת: ביטחון, כלכלה, ספורט ועוד. הצטרפו לאלפי קוראים שנשארים מעודכנים בכל רגע — לחצו עכשיו לפרטים החמים ביותר!
 
 ### אודות
-https://example.com/about
+https://real-time-news-live-18.zappy5.app/about
 גלו את הסיפור מאחורי 18 חי, פורטל חדשות ישראלי מוביל שמביא לכם דיווחים מדויקים על ביטחון, כלכלה וספורט. בואו להבין למה אנחנו הבחירה של הקהל הישראלי — היכנסו עכשיו!
 
 ### צור קשר
-https://example.com/contact
+https://real-time-news-live-18.zappy5.app/contact
 יש לכם מידע על מבזקי חדשות עכשיו או אירוע ביטחוני? צרו קשר עם מערכת 18 חי ושתפו אותנו בסיפורים שלכם. אנחנו כאן להקשיב — שלחו פנייה ותהיו חלק מהדיווח!
 
 ### תודה על פנייתך | 18 חי – חדשות בזמן אמת
-https://example.com/thank-you
+https://real-time-news-live-18.zappy5.app/thank-you
 18 חי – חדשות בזמן אמת - תודה על פנייתך | 18 חי – חדשות בזמן אמת
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://real-time-news-live-18.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://real-time-news-live-18.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://real-time-news-live-18.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -45,8 +45,8 @@ Information about WCAG compliance and accessibility features.
 - Phone (tel): tel:0523622911
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://real-time-news-live-18.zappy5.app/contact
+- Endpoint: https://real-time-news-live-18.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -76,6 +76,6 @@ News & Media
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://real-time-news-live-18.zappy5.app/sitemap.xml
+- Robots: https://real-time-news-live-18.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://real-time-news-live-18.zappy5.app/llms-full.txt
